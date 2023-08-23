@@ -5,6 +5,11 @@
 /**
  * what does the function do?
  *
- * @param {paramType} paramName - description
- * @returns {returnType} description
+ * @param {string} nameInput - description
+ * @returns {string} description
  */
+
+
+export function twoFer(nameInput = "you") {
+    return `One for ${nameInput}, one for me.`;
+}
