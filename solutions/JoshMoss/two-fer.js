@@ -8,7 +8,7 @@ import { log } from "console"
  * comments
  *
  * @param {string}} name of the datatype
- * @returns {nameInput} Name import
+ * @returns {string} nameImput
  */
 
 export function twoFer(nameInput = 'you') {
