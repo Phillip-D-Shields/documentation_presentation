@@ -8,3 +8,6 @@
  * @param {paramType} paramName - description
  * @returns {returnType} description
  */
+export function twoFer(nameInput = "you") {
+    return `One for ${nameInput}, one for me.`;
+  }
