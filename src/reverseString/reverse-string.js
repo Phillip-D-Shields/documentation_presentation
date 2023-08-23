@@ -5,6 +5,6 @@
 /**
  * what does the function do?
  *
- * @param {paramType} paramName - description
- * @returns {returnType} description
+ * @param {string} paramName - description
+ * @returns {string} description
  */
