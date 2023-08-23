@@ -14,5 +14,3 @@ import { log } from "console"
 export function twoFer(nameInput = 'you') {
     return `One for ${nameInput}, one for me.`
 }
-
-console.log(twoFer('Josh'));
